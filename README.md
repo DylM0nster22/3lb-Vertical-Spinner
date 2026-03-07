@@ -8,4 +8,5 @@ Here is a render of the main forked version <img width="731" height="461" alt="i
 
 And here is a render of the wedge config <img width="610" height="398" alt="image" src="https://github.com/user-attachments/assets/aa039789-bca3-4285-9ae7-3b23f10c9074" />
 
-Here is a slightly jank wiring diagram <img width="1229" height="754" alt="image" src="https://github.com/user-attachments/assets/45a9f399-4034-4de7-9e01-247eb12a5d4c" />
+Here is a slightly jank wiring diagram <img width="1133" height="768" alt="image" src="https://github.com/user-attachments/assets/8a321b39-325d-4198-a954-2e246fa625ce" />
+
