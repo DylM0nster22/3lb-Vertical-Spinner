@@ -14,21 +14,22 @@ Armor,34.435,2,1,68.87,,UHMW,,3d Printed,
 Wheels,22.5,4,,83.6,,Vytaflex/TPU,,3d Printed,
 Bottom lid,54.106,1,0,54.106,$16.56,Carbon Fiber,$41.12,RCL,https://robotsmashingleague.com/
 Top Lid,23.1,1,0,23.1,$22.99,Tegris,$22.99,Amazon,"Amazon.com: TEGRIS Thermoplastic Composite Sheet - (8 x 12 in.) - (Silver/Gray) - (12 Layer/.060) - Impact Resistant Material for Holster Making, DIY Gear, & Hobby - (USA Made) : Industrial & Scientific"
-Screws,,,,,,Steel,,Amazon,https://www.amazon.com/HELIFOUNER-Screws-Kit-Threaded-Stainless/dp/B0C1NTF4NQ?content-id=amzn1.sym.918a99dd-4826-4c0a-be33-a6705d69c4cf%3Aamzn1.sym.918a99dd-4826-4c0a-be33-a6705d69c4cf&crid=3Q75KOCZMGJG9&dib=eyJ2IjoiMSJ9.EI08fAIrHjmkGpF11Cj27qgn_WyK1pYLY3ITkWNauqFXnvwneJLS75I3xeiFMIuVkD8rPpiu6B5ddUSG4fIKPQM7fV0XqTnAXDV5bIPKAVUFTeyoWb2DOy_K87GmLPbXjC2sxmw0QA-fXG6rML27vrELwEFHKiIn6uBxnHBRr0DAokgJlCYUdS0ej7pnz9QNPJyce7q7Un_uiDct0UKcARpBaiaAl9a4gU2w7pr1jbwxey61vW8ZkLIZV61qud6AG4IPaZAfzqonjrTP2Bx7z8PdL0ryOj_3FaSa70scNoo.Bj0wB6d9Jrri6vG61F1UFVjTPVJ6fW6PpNNH_cwQDQI&dib_tag=se&keywords=Screws&pd_rd_r=60570934-7941-4117-a358-f1aba0a278c6&pd_rd_w=WbVvi&pd_rd_wg=GVB5B&pid=ukuiuFm&qid=1770539138&refinements=p_n_feature_two_browse-bin%3A2292863011%2Cp_n_feature_fourteen_browse-bin%3A11433959011&s=industrial&sprefix=%2B6-32%2Cindustrial%2C191&sr=1-1&th=1
-Shaft collars,,,,,,Aluminium,,Amazon,https://www.amazon.com/Befenybay-Collar-Shaft-Screw-6mm-Silver/dp/B0B1C4XX65?crid=1YT9LP1K9OAAQ&dib=eyJ2IjoiMSJ9.eIthq0W0PiMttQoevh-CWHyrQtrOfHrwkgAgPbxLzmHbsyaH-0LjzL_n_Kiw5mbmW8HIEfgJvVUOGOJV0ag3K9iSoJqGukdYDEU47dNzvWYh8xe6VFPR2ROhqP29JwXrgP-Gi5PiOPzkaoen0060EqAqqui3ljFboVLZcw_haxQSbzzIsygf4JPOYpRY1HXmJ_Tr0VIGPnqb49tpv0Afc0yIYUVnQGh9UNAGQLWov-9O8-fW2h8O-CKKddzME-tw0k0pvZWwmeTUPpqhxnA3DZ3_l8L1mad-lTLh1vJis-0.CXmevc9WBEZcg4ea902NoP9WNMKnfBWD1arr1qfcJ7g&dib_tag=se&keywords=6mm%2Bshaft%2Bcollar&qid=1770539160&s=industrial&sprefix=6mm%2Bshaft%2Bcol%2Cindustrial%2C181&sr=1-4&th=1
-battery,122,1,1,122,$39.50,Lipo,$47.42,GNB,https://www.gaoneng.shop/products/gaoneng-gnb-lihv-4s-15.2v-1100mah-120c-xt60-lipo-battery
+Screws,,,,,11.99,Steel,$11.99,Amazon,https://www.amazon.com/HELIFOUNER-Screws-Kit-Threaded-Stainless/dp/B0C1NTF4NQ?content-id=amzn1.sym.918a99dd-4826-4c0a-be33-a6705d69c4cf%3Aamzn1.sym.918a99dd-4826-4c0a-be33-a6705d69c4cf&crid=3Q75KOCZMGJG9&dib=eyJ2IjoiMSJ9.EI08fAIrHjmkGpF11Cj27qgn_WyK1pYLY3ITkWNauqFXnvwneJLS75I3xeiFMIuVkD8rPpiu6B5ddUSG4fIKPQM7fV0XqTnAXDV5bIPKAVUFTeyoWb2DOy_K87GmLPbXjC2sxmw0QA-fXG6rML27vrELwEFHKiIn6uBxnHBRr0DAokgJlCYUdS0ej7pnz9QNPJyce7q7Un_uiDct0UKcARpBaiaAl9a4gU2w7pr1jbwxey61vW8ZkLIZV61qud6AG4IPaZAfzqonjrTP2Bx7z8PdL0ryOj_3FaSa70scNoo.Bj0wB6d9Jrri6vG61F1UFVjTPVJ6fW6PpNNH_cwQDQI&dib_tag=se&keywords=Screws&pd_rd_r=60570934-7941-4117-a358-f1aba0a278c6&pd_rd_w=WbVvi&pd_rd_wg=GVB5B&pid=ukuiuFm&qid=1770539138&refinements=p_n_feature_two_browse-bin%3A2292863011%2Cp_n_feature_fourteen_browse-bin%3A11433959011&s=industrial&sprefix=%2B6-32%2Cindustrial%2C191&sr=1-1&th=1
+Shaft collars,,,,,,Aluminium,$10.71,Amazon,https://www.amazon.com/Befenybay-Collar-Shaft-Screw-6mm-Silver/dp/B0B1C4XX65?crid=1YT9LP1K9OAAQ&dib=eyJ2IjoiMSJ9.eIthq0W0PiMttQoevh-CWHyrQtrOfHrwkgAgPbxLzmHbsyaH-0LjzL_n_Kiw5mbmW8HIEfgJvVUOGOJV0ag3K9iSoJqGukdYDEU47dNzvWYh8xe6VFPR2ROhqP29JwXrgP-Gi5PiOPzkaoen0060EqAqqui3ljFboVLZcw_haxQSbzzIsygf4JPOYpRY1HXmJ_Tr0VIGPnqb49tpv0Afc0yIYUVnQGh9UNAGQLWov-9O8-fW2h8O-CKKddzME-tw0k0pvZWwmeTUPpqhxnA3DZ3_l8L1mad-lTLh1vJis-0.CXmevc9WBEZcg4ea902NoP9WNMKnfBWD1arr1qfcJ7g&dib_tag=se&keywords=6mm%2Bshaft%2Bcollar&qid=1770539160&s=industrial&sprefix=6mm%2Bshaft%2Bcol%2Cindustrial%2C181&sr=1-4&th=1
+battery,122,1,1,122,$39.50,Lipo,$49.40,GNB,https://www.gaoneng.shop/products/gaoneng-gnb-lihv-4s-15.2v-1100mah-120c-xt60-lipo-battery
 Side rails,27.444,2,1,54.888,,UHMW,,Amazon,
 Back,65,1,1,52.11,$1.27,TPU 5w 15%,$1.27,3D printed,
 Armor Standoffs,1.13,4,92,4.52,$3.57,Aluminium,$3.57,Aliexpress,https://www.aliexpress.us/item/3256807473214443.html?spm=a2g0o.productlist.main.6.3c0e6003h5Swch&algo_pvid=ec14891c-f5cf-420e-969b-e9b78a12c6ed&algo_exp_id=ec14891c-f5cf-420e-969b-e9b78a12c6ed-5&pdp_ext_f=%7B%22order%22%3A%223337%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.09%212.09%21%21%212.09%212.09%21%402101ef5e17727724377233071ed47e%2112000041691972347%21sea%21US%212956977473%21X%211%210%21n_tag%3A-29919%3Bd%3Af54cf0c2%3Bm03_new_user%3A-29895&curPageLogUid=Ltz94M9IeCaM&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007659529195%7C_p_origin_prod%3A
 Forks,45.5,2,1,91,$6.54,6.3mm AR500,$19.20,SendCutSend,https://app.sendcutsend.com/
 Front,76.65,1,1,95,$1.53,TPU 5w 15%,$1.84,,
 Power Switch,2.15,1,0,2.15,$9.00,UHMW,$9.00,,https://repeat-robotics.com/collections/beetleweight/products/fingertech-switch
-UHMW Sheet,,,,,$32.64,,$41.02,,https://www.amazon.com/gp/product/B0070ZA6V6?smid=A1FWWCVO9POVQF&th=1
+UHMW Sheet,,,,,$32.64,,$39.87,,https://www.amazon.com/Polyethylene-Plastic-Sheet-Recycled-Black/dp/B0C3T812MC?crid=CJQ777FRMJ8N&dib=eyJ2IjoiMSJ9.7-o1SwOnxx_-B_Ru4yijwQ9flALgUGjAcm3p87z4n9ZI1mohFqiv-86NbIdtKgSoU1aMzh5WTNMchF15bg2ow9AhgzvuO3xRf_ni-0eEzkS8MUF0I6AEnGUSbfu4ok_Rt6QLNW2SFctDY2XOVzvL5LW6cBKAbNq4SIkISN49PI6m7S7_FiU1Xuset3Fa-mOohy-WLQyV0CholHUsmyN8V7lIsQsRJKAnV5aybFmPa3o.z0HTigxYRijXPVByVMX21A02ETpERemMNQImI_ANP_8&dib_tag=se&keywords=uhmw+sheets+3%2F8+12x24&qid=1772925682&sprefix=uhmw+sheets+3%2F8+12x24%2Caps%2C210&sr=8-7
 Send Cut Send Total,,,,,,,$97.15,SendCutSend,https://app.sendcutsend.com/
-RSL Total,,,,,,,,,https://shop.robotsmashingleague.com/
-Amazon Total,,,,,,,,,
-,,,,Normal config,Wedge Config,,,,
-,,,,-1288.565,-1314.444,,$464.57,,
+RSL Total,,,,,,,$41.12,,https://shop.robotsmashingleague.com/
+Repeat Robotics Total,,,,,,,$190.00,,
+Amazon Total,,,,,,,$101.70,,
+,,,,,,,,,
+,,,,Normal config,Wedge Config,Total ,$549.17,,
+,,,,-1288.565,-1314.444,HC Total,$388.38,"H29, H28, H27, H19, H18",
 ,,,,1360.77711,1360.77711,,,,
-
 ,,,,72.21211,46.33311,,,,
