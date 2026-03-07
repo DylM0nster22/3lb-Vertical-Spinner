@@ -6,7 +6,8 @@ I really wanted to make this because my previous 3lb was a meltybrain which was 
 
 Here is a render of the main forked version <img width="731" height="461" alt="image" src="https://github.com/user-attachments/assets/536e2411-9e33-4623-ba6f-9bf221e41e9d" />
 
-And here is a render of the wedge config <img width="610" height="398" alt="image" src="https://github.com/user-attachments/assets/aa039789-bca3-4285-9ae7-3b23f10c9074" />
+And here is a render of the wedge config 
+<img width="610" height="398" alt="image" src="https://github.com/user-attachments/assets/aa039789-bca3-4285-9ae7-3b23f10c9074" />
 
 Here is a slightly jank wiring diagram <img width="1133" height="768" alt="image" src="https://github.com/user-attachments/assets/8a321b39-325d-4198-a954-2e246fa625ce" />
 
