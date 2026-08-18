@@ -1,0 +1,70 @@
+Part,Weight,Quantity on bot,Quantity to buy/print,Total Weight,Cost,Material,Shipping,Total Cost With Spares,Provider,Link,Normal config,Wedge Config,Description,Subsystem
+COMMON PARTS (BOTH CONFIGS),,,,,,,,,,,FALSE,FALSE,,
+Armor,31.5,2,3,63,,UHMW,,0,Amazon,,TRUE,FALSE,,Armor
+Uprights,41.25,2,3,82.5,,UHMW,,0,Amazon,,TRUE,TRUE,,Chassis
+Weapon stack hardware,57,1,,57,,,,,,,TRUE,TRUE,,
+Bottom lid,62,1,1,62,$19.95,G10,,$19.95,Amazon,https://www.amazon.com/Glass-Fiber-Sheet-335X300X4-0MM-Model/dp/B09QJYGCGV/ref=sr_1_1?crid=5FO45O30J5QM&dib=eyJ2IjoiMSJ9.Z0QY4NCv7llkntC3VPn6z8DwNuBUjTg63VxJ2YLtYiA6X-PFBOxzupkvfUVzw5yQqGm67CAHREqLguSqHp1HTvfwV5gDeM4n30WHm7qIA8LmbJhI6oWriMsHonH_pQb4TRom9OFQvMwaOaOWhO_U8HT-yxj1w7fG5VV5SoH4I94Hi8xv3h3siLqo8HAXmK_cU--XSn0JfBvxgbgUdDN8_-1EktVpbH8DzYWIhC985bE.3btNBH8vqdWCeB9a752Vxyetz6X_tjHp1jy0ZuQPq-A&dib_tag=se&keywords=g10%2Bsheet&qid=1786394157&sprefix=g10%2Bshee%2Caps%2C210&sr=8-1&th=1,TRUE,TRUE,,Chassis
+Top Lid,43,1,1,43,$15.95,G10,,$15.95,Amazon,https://www.amazon.com/cncarbonfiber-Fiberglass-Composite-inches-Models/dp/B09QJYR4CV/ref=sr_1_2?crid=5FO45O30J5QM&dib=eyJ2IjoiMSJ9.Z0QY4NCv7llkntC3VPn6z8DwNuBUjTg63VxJ2YLtYiA6X-PFBOxzupkvfUVzw5yQqGm67CAHREqLguSqHp1HTvfwV5gDeM4n30WHm7qIA8LmbJhI6oWriMsHonH_pQb4TRom9OFQvMwaOaOWhO_U8HT-yxj1w7fG5VV5SoH4I94Hi8xv3h3siLqo8HAXmK_cU--XSn0JfBvxgbgUdDN8_-1EktVpbH8DzYWIhC985bE.3btNBH8vqdWCeB9a752Vxyetz6X_tjHp1jy0ZuQPq-A&dib_tag=se&keywords=g10%2Bsheet&qid=1786394157&sprefix=g10%2Bshee%2Caps%2C210&sr=8-2&th=1,TRUE,TRUE,,Chassis
+Side rails,22.2,2,3,44.4,,UHMW,,0,Amazon,,TRUE,TRUE,UHMW side rails,Chassis
+Drive Motor,64.5,2,2,129,$55.00,aluminium/steel,,$110,Repeat Robotics,https://repeat-robotics.com/products/repeat-drive-pro?variant=52037199364277,TRUE,TRUE,,Drive
+Front Wheels,21,2,3,42,$0,Vytaflex/TPU,,0,3D printed,,TRUE,TRUE,,Drive
+Back Wheels,21,2,3,42,$0,Vytaflex/TPU,,0,3D printed,,TRUE,TRUE,,Drive
+Drive Belt,2.5,2,4,5,$2.42,Rubber,,$9.68,Aliexpress,https://www.aliexpress.us/item/3256801542737589.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.43.19643F6F3F6Fnh&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=a87f2376-2eab-41a9-a20b-427fe475002d&_t=gps-id%3ApcDetailBottomMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3Aa87f2376-2eab-41a9-a20b-427fe475002d%2Ctpp_buckets%3A668%232846%238109%231935&pdp_ext_f=%7B%22order%22%3A%22257%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21USD%213.94%213.83%21%21%213.94%213.83%21%402101ef5e17864274271175923e10eb%2112000033717170669%21rec%21US%212956977473%21XZ%211%210%21n_tag%3A-29919%3Bd%3A6b922b99%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005001729052341%7C_p_origin_prod%3A#nav-specification,TRUE,TRUE,204mm belt htd3m for the drive,Drive
+All ESCs,19,1,1,19,$49.00,PCB,,$49.00,Sequre,https://sequremall.com/products/sequre-blueson-a1-6s-8s-70a-4in1-esc?variant=44944132538556,TRUE,TRUE,,Electronics
+battery,62,2,2,124,$28.73,Lipo,,$57.46,Aliexpress,https://www.aliexpress.us/item/3256802945088264.html?spm=a2g0o.productlist.0.0.3f6a5ef7qedyqC&mp=1&pdp_npi=6%40dis%21USD%21USD+50.40%21USD+33.77%21%21USD+33.77%21%21%21%40210328c017867244615266470e0e1a%2112000036706858158%21ct%21US%212956977473%21%211%210%21&gatewayAdapt=glo2usa,TRUE,TRUE,,Electronics
+Power Switch,2.15,1,1,2.15,$9,UHMW,,$9.00,Repeat Robotics,https://repeat-robotics.com/collections/beetleweight/products/fingertech-switch,TRUE,TRUE,Power switch for the robot,Electronics
+Shaft collars,1,2,1,2,$9.99,Aluminium,,$9.99,Amazon,https://www.amazon.com/Befenybay-Collar-Shaft-Screw-6mm-Silver/dp/B0B1C4XX65?crid=1YT9LP1K9OAAQ&dib=eyJ2IjoiMSJ9.eIthq0W0PiMttQoevh-CWHyrQtrOfHrwkgAgPbxLzmHbsyaH-0LjzL_n_Kiw5mbmW8HIEfgJvVUOGOJV0ag3K9iSoJqGukdYDEU47dNzvWYh8xe6VFPR2ROhqP29JwXrgP-Gi5PiOPzkaoen0060EqAqqui3ljFboVLZcw_haxQSbzzIsygf4JPOYpRY1HXmJ_Tr0VIGPnqb49tpv0Afc0yIYUVnQGh9UNAGQLWov-9O8-fW2h8O-CKKddzME-tw0k0pvZWwmeTUPpqhxnA3DZ3_l8L1mad-lTLh1vJis-0.CXmevc9WBEZcg4ea902NoP9WNMKnfBWD1arr1qfcJ7g&dib_tag=se&keywords=6mm%2Bshaft%2Bcollar&qid=1770539160&s=industrial&sprefix=6mm%2Bshaft%2Bcol%2Cindustrial%2C181&sr=1-4&th=1,TRUE,TRUE,,Hardware
+Drive motor spacers,9,2,1,18,$0.00,TPU 1w 5%,,$0.00,3D printed,,TRUE,TRUE,,Drive
+Middle insert,6,1,1,6,$0,TPU 2w 15%,,0,3D printed,,TRUE,TRUE,,Chassis
+Drive Shafts,3.1,2,1,6.2,$10,Aluminium,,10,Repeat Robotics,https://repeat-robotics.com/products/repeat-drive-axle-mk2?variant=52037150998709,TRUE,TRUE,,
+Armor Standoffs,2.4,4,1,9.6,$4.36,Aluminium,,$4.36,Aliexpress,https://www.aliexpress.us/item/3256801542737589.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.43.19643F6F3F6Fnh&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=a87f2376-2eab-41a9-a20b-427fe475002d&_t=gps-id%3ApcDetailBottomMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3Aa87f2376-2eab-41a9-a20b-427fe475002d%2Ctpp_buckets%3A668%232846%238109%231935&pdp_ext_f=%7B%22order%22%3A%22257%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21USD%213.94%213.83%21%21%213.94%213.83%21%402101ef5e17864274271175923e10eb%2112000033717170669%21rec%21US%212956977473%21XZ%211%210%21n_tag%3A-29919%3Bd%3A6b922b99%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005001729052341%7C_p_origin_prod%3A#nav-specification,TRUE,TRUE,30mm deep blue,Hardware
+Body Standoffs,2.4,3,1,7.2,$4.36,Aluminium,,$4.36,Aliexpress,https://www.aliexpress.us/item/3256801542737589.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.43.19643F6F3F6Fnh&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=a87f2376-2eab-41a9-a20b-427fe475002d&_t=gps-id%3ApcDetailBottomMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3Aa87f2376-2eab-41a9-a20b-427fe475002d%2Ctpp_buckets%3A668%232846%238109%231935&pdp_ext_f=%7B%22order%22%3A%22257%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21USD%213.94%213.83%21%21%213.94%213.83%21%402101ef5e17864274271175923e10eb%2112000033717170669%21rec%21US%212956977473%21XZ%211%210%21n_tag%3A-29919%3Bd%3A6b922b99%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005001729052341%7C_p_origin_prod%3A#nav-specification,TRUE,TRUE,30mm deep blue alu standoffs,Hardware
+Weapon,175,1,3,175,$11.30,6.3mm AR500,,$33.90,OSH cut,https://app.oshcut.com/cart,TRUE,TRUE,,Weapon
+Weapon pulley,40,1,1,40,,PA6GF25 Solid,,$0.00,3D printed,,TRUE,TRUE,,Weapon
+Weapon motor pulley,10,1,1,10,,PA6GF25 Solid,,$0.00,3D printed,,TRUE,TRUE,,Weapon
+Weapon Motor,76,1,3,76,$10.00,Aluminium,,$30.00,Alibaba,https://www.alibaba.com/product-detail/MAD-BSC-2812-High-Performance-925_1601717627732.html?chatToken=TDFKeWNGRlpkWFZTWmtkNFRYRnZjVWxhVTBsU2RVcHNkRVpKVTJsMlRteERiM0ZyWlhrM2VHMXhZM1psZVVOcFdVWkljWFpqUkc0eVlqZG1VbmxsU25sdVJHWmhSRFpsUVZwUFV6WkxPVTh4VFZSUlZXMUZaRzVGY0RWVFJEUkJUSEk0VmpaRFVtRnhUMnRtT0hWVFNFZHhTR2RrZFU5d04waG5LMlZ4Y0dKdU9FNXZkVlV2UlUxUVVtTk9UWHBZWld0SE1pdHJiV2swUmt0QlMwZG1jVmhYWW1KQlZrMTBVMWxSUFE9PSZ2ZXJzaW9uPTIuMC4w&encryptTargetLoginId=8pctgRBMALMzDGt6CFN5IsaKw%2F2XdjGi6wdkfYSa%2Bs4%3D,TRUE,TRUE,,Weapon
+Weapon belt,8.815,1,3,8.815,$3.18,Rubber,,$9.54,Aliexpress,https://www.aliexpress.us/item/3256808473098612.html?pdp_npi=4%40dis%21USD%21US+%244.32%21US+%243.76%21%21%2128.99%2125.22%21%402101de2517864254953092183e0ead%2112000046132219040%21sh%21US%212956977473%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007603405040.1005008659413364&gatewayAdapt=glo2usa,TRUE,TRUE,215mm belt htd5m for the weapon,Weapon
+NORMAL CONFIGURATION ONLY,,,,,,,,,,,FALSE,FALSE,,
+Screws,70,1,1,70,,,,$0.00,,,TRUE,FALSE,,
+Back,55,1,2,55,,TPU 2w 15%,,$0.00,3D printed,,TRUE,FALSE,3dp TPU Back plate,Chassis
+Front,35,2,3,70,,TPU 5w 15%,,$0.00,,,TRUE,FALSE,3dp TPU robot front,Chassis
+Forks,45,2,4,90,$7.26,6.3mm AR500,,$29.02,OSH cut,https://app.oshcut.com/cart,TRUE,FALSE,6.3mm SR500 fork,Forks
+WEDGE CONFIGURATION ONLY,,,,,,,,,,,FALSE,FALSE,,
+Wedge Back,34,1,2,34,,TPU 2w 15%,,0,3D printed,,FALSE,TRUE,,Wedge
+Wedge Front,61,2,2,122,,TPU 2w 15%,,0,3D printed,,FALSE,TRUE,,Wedge
+Screws,72,1,,72,,,,,,,FALSE,TRUE,,
+Wedge armor,14,2,,28,,UHMW,,,Amazon,,FALSE,TRUE,,
+Wedge,172,1,1,172,$18.31,"0.098"" sr500",,$18.31,OSH cut,https://app.oshcut.com/cart,FALSE,TRUE,,Wedge
+Under wedge plates,8.5,1,1,8.5,,,,$0.00,,,FALSE,TRUE,,
+UNASSIGNED / SPARES,,,,,,,,,,,FALSE,FALSE,,
+UHMW,,,1,,$25.29,,,$25.29,Ebay,https://www.ebay.com/itm/376685243170?itmmeta=01KZWA3W3VA58E6T9NEGH3D6AD&hash=item57b430ab22:g:MOQAAeSwiLtpEOPH,FALSE,FALSE,,Material
+,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,FALSE,FALSE,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,Normal config,Wedge Config,Total,,,,,,,,
+,,,,1358.865,1447.365,HC Total,,,,,,,,
+,,,,1360.77711,1360.77711,,,,,,,,,
+,,,,1.91211,-86.58789,,,,,,,,,
+,,,,,,,,,,,,,,
+Weapon 18:32 htd5m,,,,,,,,,,,,,,
+Drive htd3m,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,GRAND TOTAL,$445.81,$69.50,$515.31,,,,,,,
+,,,,Provider,Parts Cost,Shipping Cost+Tax,Total Cost,,,,,,,
+,,,,3D printed,$0.00,$0.00,$0.00,,,,,,,
+,,,,Alibaba,$30.00,$10.00,$40.00,,,,,,,
+,,,,Aliexpress,$85.40,$14.38,$99.78,✔,,,,,,
+,,,,Amazon,$45.89,$3.33,$49.22,✔,,,,,,
+,,,,Ebay,$25.29,$11.49,$36.78,✔,,,,,,
+,,,,OSH cut,$81.23,$23.22,$104.45,✔,,,,,,
+,,,,Repeat Robotics,$129.00,$5.00,$134.00,✔,,,,,,
+,,,,Sequre,$49.00,$2.08,$51.08,✔,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,Budget $400,,,,,,,,
