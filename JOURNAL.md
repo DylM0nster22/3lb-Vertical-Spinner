@@ -44,7 +44,7 @@ The two pulleys are really close together to the point of almost touching ![imag
 Today, I started making a belted weapon system. This robot originally used a hubmotor sold by Repeat Robotics that is simple to use because the weapon just bolts on, and you're done. This works well because of its simplicity. After asking some people I know who have used them before, I decided to switch away from them. The reason I want to switch away is that it will, for one, be much cheaper, and it will also be more reliable if I do it right. Today I just created the motor mount and figured out spacing and what type of belt I'm going to use. For this, I'm going to use a motor the same size as the Repeathub motor, but it's going to have a gear reduction, which will give it more torque. The weapon hub is going to be either 3d printed out of TPU or machined by me out of UHMW. I also decided I may switch my battery to a smaller one, but I am undecided. This is how my setup looks now. The backplate is going to be aluminium, and the standoffs are also aluminium ![image](https://cdn.hackclub.com/019e5ded-a940-78e1-b16c-212d40f37554/image.png) ![image](https://cdn.hackclub.com/019e5ded-d43a-79d5-aab6-a6604990f5e8/image.png)
 Here is the battery I was looking at adding ![image](https://cdn.hackclub.com/019e5dee-bd4f-7515-ae76-c6d077015b00/image.png)
 
-# 2026-05-23: 4/1/2026 - Put all the components into the bot
+# 2026-04-1: Put all the components into the bot
 
 **Total time spent: 0.6 hours**
 
@@ -54,7 +54,7 @@ Heres a top down view
 ![image](https://cdn.hackclub.com/019e55eb-ddfb-77d7-94f4-dafd0cb61651/image.png) Here are a few more close-up shots ![image](https://cdn.hackclub.com/019e55eb-fc3b-7358-b3a0-7303b7f2fb4d/image.png)
 ![image](https://cdn.hackclub.com/019e55ec-0999-79ec-9472-f4207eed764a/image.png)
 
-# 2026-05-23: 3/7/2026 - Finished the BOM And Github
+# 2026-03-7: Finished the BOM And Github
 
 **Total time spent: 1.0 hours**
 
@@ -62,20 +62,20 @@ I finished the BOM and relized im cooked the total price is around $460 so i wil
 
 Heres the BOM ![image](https://cdn.hackclub.com/019e55eb-2a4f-74bc-973e-e94f3232563c/image.png)
 
-# 2026-05-23: 3/5/2026 - Fixed the CF and made finishing touches
+# 2026-03-5: Fixed the CF and made finishing touches
 
 **Total time spent: 2.5 hours**
 
 Today I asked my friend to look over my bot and the biggest thing he said was a issue was the carbon fiber, the issue was that all the screw holes were too close to the edge and it would have just ripped out so he had me fix all of those. The other issue was the UHMW side armor this was a small issue and it was just rounding the armor to be around the wheel instead of a block.
 This is how my top lid looks now ![image](https://cdn.hackclub.com/019e55ea-37ff-7dc1-a8f9-295aa24b8490/image.png) And this is how the bottom lid looks ![image](https://cdn.hackclub.com/019e55ea-5acd-715f-adf5-1b85e130b20f/image.png) I also fixed the motor spacer to included the weapon motor wires and the routing of the drive motor wires ![image](https://cdn.hackclub.com/019e55ea-7804-7848-b578-89c9c9107aab/image.png)
 
-# 2026-05-23: 3/4/2026 - Made my horizontal config
+# 2026-03-4: Made my horizontal config
 
 **Total time spent: 9.0 hours**
 
 Over the past few days ive been having trouble making a horizontal config. The way horizontal configs work usually is you have a wedge in the front, which replaces the forks, and it is normally made out of 1.6mm titanium, and it deflects the hits from horizontals and makes them bounce off or go flying instead of them digging into your bot. When I made my original wedge, it looked like this ![image](https://cdn.hackclub.com/019e55e9-299e-7e59-b127-7a938d682ec4/image.png) which is super cool because it would protect my uprights and body at the same time butttt it was 130$ out of ti which was way too much. So I made a steel wedge instead, which only costs 35$ for 2 wedges and an extra side piece. ![image](https://cdn.hackclub.com/019e55e9-49fe-7f73-984b-67f893d0cfdd/image.png) Because of how heavy steel is i had to make a bunch of compromises like removing side armor when I have it on and using a smaller weapon and uprights, but I only have to use those when I fight a horizotal otherwise, I get to run it as you saw before. To mount the wedge, I had to make these, which will have screw holes for the wedge to hold onto ![image](https://cdn.hackclub.com/019e55e9-6dfd-73d9-86f0-3ddb2f7eb2b3/image.png) The new version of the uprights and weapon looks like this ![image](https://cdn.hackclub.com/019e55e9-9278-748c-86cd-7ecbbfac2d2a/image.png) The full wedge version of the robot will look like this ![image](https://cdn.hackclub.com/019e55e9-bffe-7ef9-9a84-80c6636638a4/image.png)
 
-# 2026-05-23: 2/22/2026 - Remade the body and got closer to finishing
+# 2026-02-22: Remade the body and got closer to finishing
 
 **Total time spent: 5.0 hours**
 
@@ -83,13 +83,13 @@ Over the past few days, when I worked on this i kept forgetting to journal, I re
 here is a front view ![image](https://cdn.hackclub.com/019e55e7-728b-727f-b6e2-07196f61c3bb/image.png) here is a side view ![image](https://cdn.hackclub.com/019e55e7-9213-7168-84b5-2b8730409847/image.png) and here is a top view ![image](https://cdn.hackclub.com/019e55e8-3cbd-7d14-8fba-ff1c7013270b/image.png) I also had to add larger holes to the cf so it could be passthrough holes
 The forks on the front are going to be made out of 6.3mm thick ar500 steel991df873dee5/image.png)
 
-# 2026-05-23: 2/18/2026 - Created a good base of the robot
+# 2026-02-18: Created a good base of the robot
 
 **Total time spent: 6.0 hours**
 
 So far today, I have made the entire base for the robot and finalized what parts I'm going to use. For the weapon motor, I chose the Repeat Robotics 3lb hub motor, and for the drive, I chose the Repeat Robotics Pro 2006 motors. The robot is going to be controlled with a fs-i6 remote, which I already have, and a fs2a drone receiver, which only weighs about 1g, so it's perfect. The Escs im going to use to control the drive motors are 40A AM32 ESCs, which are from Aliexpress, and for the weapon im going to use a 90A ESC from MEPSKING. For the battery, I decided on using a GNB 1100mah 4s lihv which is good because it has a high discharge rate. As for the robot, it took me a few redesigns to choose a shape I like, but I ended up with a rectangle that's wider than it is long, and it's going to be 3d printed out of TPU. ![image](https://cdn.hackclub.com/019e55e0-62cf-77a4-9ac7-cbda74c3cc78/image.png) For the upright they are going to be made out of UHMW, which is slightly pocketed to save on weight. ![image](https://cdn.hackclub.com/019e55e0-9fa3-7073-952b-1bcbbaa6c3a5/image.png) The top lid is going to be made out of 1.5mm tegris, and if that's not strong enough im going to double it up and run two of them if I have weight. The bottom lid is going to be cut by robotsmashingleauge out of 2mm thick carbon fiber because of its stiffness and strength. The wheels are going to be made out of tpu and for grip their going to use Vytaflex. The wheels are going to be belted from the front to the back to have 4wd. This is the current state of the robot ![image](https://cdn.hackclub.com/019e55e0-d5c4-70b7-a683-1f6865c0d914/image.png) ![image](https://cdn.hackclub.com/019e55e0-e4e8-72bd-8dc0-a8745a41028b/image.png) ![image](https://cdn.hackclub.com/019e55e1-0118-7d80-922d-2ced52c5a727/image.png)
 
-# 2026-05-23: 2/7/2026 - Designed the Weapon and chose motor
+# 2026-02-27: Designed the Weapon and chose motor
 
 **Total time spent: 1.0 hours**
 
