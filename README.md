@@ -13,7 +13,8 @@ And here is a render of the wedge config
 <img width="755" height="464" alt="image" src="https://github.com/user-attachments/assets/e7b6bb56-d87f-4a42-b834-336d460d70e8" />
 
 
-Here is a slightly jank wiring diagram <img width="1133" height="768" alt="image" src="https://github.com/user-attachments/assets/8a321b39-325d-4198-a954-2e246fa625ce" />
+Here is a wiring diagram <img width="1044" height="812" alt="image" src="https://github.com/user-attachments/assets/1f83268c-7ded-4a45-8187-882ecd1e3b33" />
+
 
 
 | Part                        | Weight | Quantity on bot | Quantity to buy/print | Total Weight    | Cost         | Material          | Shipping   | Total Cost With Spares | Provider        | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Normal config | Wedge Config | Description                     | Subsystem   |
