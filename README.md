@@ -13,7 +13,8 @@ And here is a render of the wedge config
 <img width="755" height="464" alt="image" src="https://github.com/user-attachments/assets/e7b6bb56-d87f-4a42-b834-336d460d70e8" />
 
 
-Here is a wiring diagram <img width="1044" height="812" alt="image" src="https://github.com/user-attachments/assets/1f83268c-7ded-4a45-8187-882ecd1e3b33" />
+Here is a wiring diagram <img width="1232" height="830" alt="image" src="https://github.com/user-attachments/assets/acb0bcc2-4c67-4ade-9a13-f7614c2b82a8" />
+
 
 
 
