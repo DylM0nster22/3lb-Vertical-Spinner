@@ -9,11 +9,13 @@ The wheels use cast vytaflex urethane that goes on tpu for traction and strength
 The weapon stack is made up of a glass fiber nylon hub with the blade being sandwiched by screws with the hub. It rides on a 5/16" shaft with needle roller bearings and thrust washers.
 
 Here is a render of the main forked version. This is the version that is used against other vertical spinners because then it allows you to get under them because of the forks.
+
 <img width="736" height="453" alt="image" src="https://github.com/user-attachments/assets/8154bd37-2904-40b1-a797-af2e39506625" />
 
 
 
 And here is a render of the wedge config. This is used only for horizontals because it causes their weapon to reflect off the angled wedge.
+
 <img width="755" height="464" alt="image" src="https://github.com/user-attachments/assets/e7b6bb56-d87f-4a42-b834-336d460d70e8" />
 
 
