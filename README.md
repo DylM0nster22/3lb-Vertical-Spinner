@@ -3,13 +3,17 @@ The robot has a 5.2 inch weapon that runs on a 3d printed weapon hub that is bel
 All the parts are screws together using various length m4 plastite screws; you can find the lengths of them in the cad by checking the hole depth.
 All the print settings for the front and back are in the BOM.
 I really wanted to make this because my previous 3lb was a meltybrain which was a robot that was supposed to spin really fast and use its entire weight to do damage, but instead it spun slowly and just got beatup. This robot is my redemption, and in theory it will be really really strong
+This combat robot uses a fs2a and a fsi6 to get control from the user, the remote needs mixing to be able to drive straight because its tank style driving.
+The power source of the robot is two small 6s lipo batteries that are wired in parallel so their capacity is combined.
+The wheels use cast vytaflex urethane that goes on tpu for traction and strength.
+The weapon stack is made up of a glass fiber nylon hub with the blade being sandwiched by screws with the hub. It rides on a 5/16" shaft with needle roller bearings and thrust washers.
 
-Here is a render of the main forked version 
+Here is a render of the main forked version. This is the version that is used against other vertical spinners because then it allows you to get under them because of the forks.
 <img width="736" height="453" alt="image" src="https://github.com/user-attachments/assets/8154bd37-2904-40b1-a797-af2e39506625" />
 
 
 
-And here is a render of the wedge config 
+And here is a render of the wedge config. This is used only for horizontals because it causes their weapon to reflect off the angled wedge.
 <img width="755" height="464" alt="image" src="https://github.com/user-attachments/assets/e7b6bb56-d87f-4a42-b834-336d460d70e8" />
 
 
